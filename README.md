@@ -1,2 +1,2 @@
-# University-Projects
-University-Projects is a comprehensive repository showcasing a curated selection of academic projects across various courses, demonstrating skills in programming, problem-solving, and technology application
+# Saeed-Alneyadi
+I'm Saeed from the UAE, specializing in Computer Science and Engineering with a deep passion for Machine Learning, Data Mining, and Artificial Intelligence. Committed to leveraging modern technologies, I create innovative solutions to improve decision-making processes. My portfolio not only showcases a range of projects that highlight my expertise in analyzing complex data sets and developing intelligent systems but also includes a diverse array of university projects, demonstrating my solid academic foundation and practical skills in technology applications.
