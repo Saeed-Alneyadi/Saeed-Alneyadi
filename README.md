@@ -12,4 +12,3 @@ I'm Saeed from the UAE, specializing in Computer Science and Engineering with a 
 ![saeed-alneyadi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeed-alneyadi&theme=default&hide_border=false)
 
 
-
