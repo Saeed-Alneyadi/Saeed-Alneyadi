@@ -12,14 +12,14 @@ I'm Saeed from the UAE, specializing in Computer Science and Engineering with a 
 ![saeed-alneyadi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeed-alneyadi&theme=default&hide_border=false)
 
 # Work Experiences
-Software Engineering Intern
-Halo Investing, Chicago, IL
+Software Engineering Intern <br />
+Halo Investing, Chicago, IL <br />
 June 2023 - July 2023
 * Successfully completed four complex projects in the fields of computer science and engineering, demonstrating advanced technical proficiency and problem-solving skills
 * Gained comprehensive knowledge of various departmental functions and focuses, enhancing cross-functional understanding and collaboration skills
 
-Computer Science and Engineering Intern
-Borouge (Abu Dhabi National Oil Company), Abu Dhabi, AE
+Computer Science and Engineering Intern <br />
+Borouge (Abu Dhabi National Oil Company), Abu Dhabi, AE <br />
 May 2022 - July 2022
 * Acquired in-depth insights into interdepartmental collaboration, understanding how different divisions synergize to achieve organizational goals
 * Collaborated with fellow interns on engineering tasks, honing teamwork and technical skills in a hands-on project environment
