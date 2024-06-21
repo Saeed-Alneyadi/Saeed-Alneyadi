@@ -12,3 +12,9 @@ I'm Saeed from the UAE, specializing in Computer Science and Engineering with a 
 ![saeed-alneyadi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeed-alneyadi&theme=default&hide_border=false)
 
 # Work Experiences
+Software Engineering Intern
+Halo Investing, Chicago, IL
+June 2023 - July 2023
+* Successfully completed four complex projects in the fields of computer science and engineering, demonstrating advanced technical proficiency and problem-solving skills
+* Gained comprehensive knowledge of various departmental functions and focuses, enhancing cross-functional understanding and collaboration skills
+
