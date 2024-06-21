@@ -18,3 +18,8 @@ June 2023 - July 2023
 * Successfully completed four complex projects in the fields of computer science and engineering, demonstrating advanced technical proficiency and problem-solving skills
 * Gained comprehensive knowledge of various departmental functions and focuses, enhancing cross-functional understanding and collaboration skills
 
+Computer Science and Engineering Intern
+Borouge (Abu Dhabi National Oil Company), Abu Dhabi, AE
+May 2022 - July 2022
+* Acquired in-depth insights into interdepartmental collaboration, understanding how different divisions synergize to achieve organizational goals
+* Collaborated with fellow interns on engineering tasks, honing teamwork and technical skills in a hands-on project environment
