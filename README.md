@@ -24,3 +24,4 @@ May 2022 - July 2022
 * Acquired in-depth insights into interdepartmental collaboration, understanding how different divisions synergize to achieve organizational goals
 * Collaborated with fellow interns on engineering tasks, honing teamwork and technical skills in a hands-on project environment
 
+
