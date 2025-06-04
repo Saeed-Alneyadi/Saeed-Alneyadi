@@ -26,8 +26,8 @@ I am deeply interested in the fields of Artificial Intelligence, Cybersecurity, 
 
 # 📫 Contact
 * 📧 Email: saeed-alneyadi@outlook.com
-* 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/saeed-alneyadi-b87482247/))  
-* 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+* 💼 LinkedIn: [linkedin.com/in/saeed-alneyadi-b87482247/](https://www.linkedin.com/in/saeed-alneyadi-b87482247/))  
+* 🌐 Portfolio: 
 
 # 📈 GitHub Stats
 ![saeed-alneyadi's Stats](https://github-readme-stats.vercel.app/api?username=saeed-alneyadi&theme=default&show_icons=true&hide_border=false&count_private=true)
