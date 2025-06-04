@@ -1,7 +1,7 @@
 # 😎 Saeed Alneyadi
 I'm Saeed from the UAE, specializing in Computer Science and Engineering with a deep passion for Machine Learning, Data Mining, and Artificial Intelligence. Committed to leveraging modern technologies, I create innovative solutions to improve decision-making processes. My portfolio not only showcases a range of projects that highlight my expertise in analyzing complex data sets and developing intelligent systems but also includes a diverse array of university projects, demonstrating my solid academic foundation and practical skills in technology applications.
 
-# 🚀 Passionate About Intelligent, Secure, and Data-Driven Technologies
+# 💡 My Interests: AI, Cybersecurity & Data Analytics
 I am deeply interested in the fields of Artificial Intelligence, Cybersecurity, and Data Analytics. I enjoy exploring how intelligent systems can learn from data to solve real-world problems, while also being mindful of the security and ethical implications of these technologies. My passion lies in building smart, secure solutions that leverage machine learning and data-driven insights, and I am always eager to learn more about protecting digital systems and uncovering patterns through data analysis.
 
 # 🛠️ Technical Skills 
