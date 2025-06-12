@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1eb9d86-c54d-4619-9921-f2919fe1b062)# 😎 Saeed Alneyadi
+# 😎 Saeed Alneyadi
 I'm Saeed from the UAE, specializing in Computer Science and Engineering with a deep passion for Machine Learning, Data Mining, and Artificial Intelligence. Committed to leveraging modern technologies, I create innovative solutions to improve decision-making processes. My portfolio not only showcases a range of projects that highlight my expertise in analyzing complex data sets and developing intelligent systems but also includes a diverse array of university projects, demonstrating my solid academic foundation and practical skills in technology applications.
 
 # 💡 My Interests: AI, Cybersecurity & Data Analytics
