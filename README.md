@@ -24,11 +24,6 @@ I am deeply interested in the fields of Artificial Intelligence, Cybersecurity, 
   - Collaborated with five peers to build a web application for our university's course catalog, streamlining academic planning.
   - Designed functionalities enabling users like administrators, instructors, and students to effectively manage and access academic information.
 
-# 📫 Contact
-* 📧 Email: saeed-alneyadi@outlook.com
-* 💼 LinkedIn: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />](https://www.linkedin.com/in/saeed-alneyadi-b87482247/)  
-* 🌐 Portfolio: https://saeed-alneyadi.github.io/
-
 # 📈 GitHub Stats
 ![saeed-alneyadi's Stats](https://github-readme-stats.vercel.app/api?username=saeed-alneyadi&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![saeed-alneyadi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeed-alneyadi&theme=default&hide_border=false)
@@ -46,3 +41,7 @@ May 2022 - July 2022
 * Acquired in-depth insights into interdepartmental collaboration, understanding how different divisions synergize to achieve organizational goals
 * Collaborated with fellow interns on engineering tasks, honing teamwork and technical skills in a hands-on project environment
 
+# 📫 Contact
+* 📧 Email: saeed-alneyadi@outlook.com
+* 💼 LinkedIn: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />](https://www.linkedin.com/in/saeed-alneyadi-b87482247/)  
+* 🌐 Portfolio: https://saeed-alneyadi.github.io/
